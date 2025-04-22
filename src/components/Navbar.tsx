@@ -27,7 +27,7 @@ function Navbar() {
 
           {/* Navigation Items */}
           <div className="flex flex-wrap justify-center md:justify-end gap-x-4 gap-y-2 md:space-x-6 md:flex-nowrap">
-            <Link to="/start" className="text-gray-700 hover:text-gray-900">
+            <Link to="/" className="text-gray-700 hover:text-gray-900">
               Start
             </Link>
             <Link to="/buy" className="text-gray-700 hover:text-gray-900">

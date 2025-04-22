@@ -1,7 +1,15 @@
 @import "tailwindcss";
 
+.font-avenir {
+  font-family: "Avenir", sans-serif !important;
+}
+.font-ofelia {
+  font-family: "Ofelia-Display", sans-serif !important;
+}
+
 :root {
-  font-family: Avenir, Ofelia-Display, Helvetica, Arial, sans-serif;
+  font-family: Avenir, sans-serif;
+  /* font-family: Avenir, Ofelia-Display, Helvetica, Arial, sans-serif; */
   /* line-height: 1.5;
   font-weight: 400;
 
